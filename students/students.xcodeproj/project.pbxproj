@@ -31,6 +31,7 @@
 		602AEF5024D48D260079BD27 /* bizhi.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 602AEF4F24D48D260079BD27 /* bizhi.jpeg */; };
 		602AEF5224D48D820079BD27 /* bizhi1.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 602AEF5124D48D820079BD27 /* bizhi1.jpeg */; };
 		602AEF5824D491E90079BD27 /* FirstViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 602AEF5724D491E90079BD27 /* FirstViewController.m */; };
+		602AEF5B24D70C600079BD27 /* OpenViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 602AEF5A24D70C600079BD27 /* OpenViewController.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -93,6 +94,8 @@
 		602AEF5124D48D820079BD27 /* bizhi1.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = bizhi1.jpeg; sourceTree = "<group>"; };
 		602AEF5624D491E90079BD27 /* FirstViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = FirstViewController.h; sourceTree = "<group>"; };
 		602AEF5724D491E90079BD27 /* FirstViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = FirstViewController.m; sourceTree = "<group>"; };
+		602AEF5924D70C600079BD27 /* OpenViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = OpenViewController.h; sourceTree = "<group>"; };
+		602AEF5A24D70C600079BD27 /* OpenViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = OpenViewController.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -157,6 +160,8 @@
 				602AEEF024D14C970079BD27 /* ViewController.m */,
 				602AEF5624D491E90079BD27 /* FirstViewController.h */,
 				602AEF5724D491E90079BD27 /* FirstViewController.m */,
+				602AEF5924D70C600079BD27 /* OpenViewController.h */,
+				602AEF5A24D70C600079BD27 /* OpenViewController.m */,
 				602AEF4224D410B30079BD27 /* RegisterViewController.h */,
 				602AEF4324D410B30079BD27 /* RegisterViewController.m */,
 				602AEF2A24D2BF8D0079BD27 /* FindViewController.h */,
@@ -336,6 +341,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				602AEF5B24D70C600079BD27 /* OpenViewController.m in Sources */,
 				602AEF4124D3DF470079BD27 /* Student.m in Sources */,
 				602AEF2C24D2BF8D0079BD27 /* FindViewController.m in Sources */,
 				602AEEF124D14C970079BD27 /* ViewController.m in Sources */,
